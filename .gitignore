@@ -1,0 +1,41 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Build files
+build/
+dist/
+
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Flask cache and logs
+instance/
+*.log
+
+# React specific
+.DS_Store
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Miscellaneous
+Thumbs.db
